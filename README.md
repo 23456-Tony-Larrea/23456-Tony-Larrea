@@ -9,9 +9,9 @@ Soy Anthony, un apasionado desarrollador de 23 años con un amor especial por el
 - Ionic (en el mundo móvil)
 - Flutter
 - Django
+- ASP .NetCore
 
 En el backend, me desenvuelvo en:
-
 - Spring Boot
 - ASP.NET Core API
 - Sequelize
@@ -20,7 +20,12 @@ En el backend, me desenvuelvo en:
 - Node.js
 - También, tengo experiencia en Python para proyectos de inteligencia artificial y desarrollo de APIs.
 - FastApi
-  
+- C#
+En el manejo de base de datos :
+- SQL Server
+- PostgresSQL
+- MySQL
+- MongoDB
 
 He trabajado en proyectos con microservicios y aplicaciones MVC con ASP.NET Core, pero mi pasión indiscutible sigue siendo JavaScript.
 
