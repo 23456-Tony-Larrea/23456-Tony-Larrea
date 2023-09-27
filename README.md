@@ -21,7 +21,9 @@ En el backend, me desenvuelvo en:
 - También, tengo experiencia en Python para proyectos de inteligencia artificial y desarrollo de APIs.
 - FastApi
 - C#
+
 En el manejo de base de datos :
+
 - SQL Server
 - PostgresSQL
 - MySQL
