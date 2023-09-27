@@ -7,6 +7,8 @@ Soy Anthony, un apasionado desarrollador de 23 años con un amor especial por el
 - Vue.js
 - Angular
 - Ionic (en el mundo móvil)
+- Flutter
+- Django
 
 En el backend, me desenvuelvo en:
 
@@ -17,6 +19,8 @@ En el backend, me desenvuelvo en:
 - NestJS
 - Node.js
 - También, tengo experiencia en Python para proyectos de inteligencia artificial y desarrollo de APIs.
+- FastApi
+  
 
 He trabajado en proyectos con microservicios y aplicaciones MVC con ASP.NET Core, pero mi pasión indiscutible sigue siendo JavaScript.
 
