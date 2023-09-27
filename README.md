@@ -7,10 +7,10 @@ Soy Anthony, un apasionado desarrollador de 23 años con un amor especial por el
 - Vue.js
 - Angular
 - Ionic (en el mundo móvil)
+- TypeScript
 - Flutter
 - Django
 - ASP .NetCore
-
 En el backend, me desenvuelvo en:
 - Spring Boot
 - ASP.NET Core API
@@ -18,16 +18,19 @@ En el backend, me desenvuelvo en:
 - Knex.js
 - NestJS
 - Node.js
-- También, tengo experiencia en Python para proyectos de inteligencia artificial y desarrollo de APIs.
 - FastApi
 - C#
-
+- Laravel
+- Lumen
 En el manejo de base de datos :
 
 - SQL Server
 - PostgresSQL
 - MySQL
 - MongoDB
+
+  
+- También, tengo experiencia en Python para proyectos de inteligencia artificial y desarrollo de APIs.
 
 He trabajado en proyectos con microservicios y aplicaciones MVC con ASP.NET Core, pero mi pasión indiscutible sigue siendo JavaScript.
 
