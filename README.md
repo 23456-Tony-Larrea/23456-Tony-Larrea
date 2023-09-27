@@ -22,6 +22,8 @@ En el backend, me desenvuelvo en:
 - C#
 - Laravel
 - Lumen
+
+
 En el manejo de base de datos :
 
 - SQL Server
