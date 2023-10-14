@@ -43,4 +43,6 @@ Estoy emocionado por colaborar en proyectos interesantes y seguir aprendiendo en
 
 
 
-![image](https://github.com/23456-Tony-Larrea/23456-Tony-Larrea/assets/52183482/643a3483-3186-43b5-a735-250e5e974df9)
+
+![image](https://github.com/23456-Tony-Larrea/23456-Tony-Larrea/assets/52183482/ab01133d-0ee6-42da-a9af-bdfaee1d3f19)
+
