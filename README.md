@@ -37,3 +37,4 @@ En el manejo de base de datos :
 He trabajado en proyectos con microservicios y aplicaciones MVC con ASP.NET Core, pero mi pasión indiscutible sigue siendo JavaScript.
 
 Estoy emocionado por colaborar en proyectos interesantes y seguir aprendiendo en el emocionante mundo del desarrollo web y móvil. ¡No dudes en contactarme para discutir ideas o colaboraciones!
+![image](https://github.com/23456-Tony-Larrea/23456-Tony-Larrea/assets/52183482/643a3483-3186-43b5-a735-250e5e974df9)
