@@ -1,6 +1,6 @@
 ¡Hola! 👋
 
-Soy Anthony, un apasionado desarrollador de 23 años con un amor especial por el mundo de JavaScript y las tecnologías frontend. Mi experiencia abarca una amplia gama de tecnologías y frameworks, incluyendo:
+Soy Anthony, un apasionado desarrollador de 24 años con un amor especial por el mundo de JavaScript y las tecnologías frontend. Mi experiencia abarca una amplia gama de tecnologías y frameworks, incluyendo:
 
 - JavaScript
 - React
